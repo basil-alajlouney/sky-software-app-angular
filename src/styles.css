@@ -1,0 +1,16 @@
+.bg-green{
+    background-color: green;
+}
+.text-gray{
+    color: gray;
+}
+.border-green{
+    border: 1px solid green;
+}
+.text-green{
+    color:green;
+}
+.highlight{
+    /* display: none; */
+    background-color: rgba(255, 255, 0, 0.7);
+}
